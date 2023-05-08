@@ -3,7 +3,7 @@ import random
 and prints the list.
 """
 def main():
-    #create list
+    #create the list
     numbers = [16.2, 75.1, 52.3]
     #print list 
     print(numbers)
