@@ -1,0 +1,19 @@
+v = π * (w**2) * a((w * a) + 2,540 d) / 10,000,000,000
+
+to calc tire-_vol, 
+variables for width, aspect ratio, diameter
+v is in liters
+w is in millimeters
+d is in inches
+
+#First, request input from user for w, a & d
+width
+aspect_ratio
+diameter
+call compute function and store in variable v
+print
+
+#write compute function and import math function for pi
+def function_name pass 3 args(w, a, d):
+    v = π * (w**2) * a((w * a) + 2,540 d) / 10,000,000,000
+    return v
